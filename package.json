@@ -32,5 +32,8 @@
 		"vite": "^3.2.4",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"wretch": "^2.1.5"
+	}
 }

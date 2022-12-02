@@ -11,7 +11,10 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>
+			Powered by The OpenSky Network,
+			<a href="https://opensky-network.org">opensky-network.org</a>
+		</p>
 	</footer>
 </div>
 
